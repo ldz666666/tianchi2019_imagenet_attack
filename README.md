@@ -11,4 +11,4 @@ pretrained tensorflow models can be found [here](https://github.com/tensorflow/m
 ## Run
 > sh tianchi.sh [ your imagepath ] [ your output imagepath ] [ your epsilon ] 
 
-Remember we delete the first row (title) of dev.csv in folder images 
+Remember we delete the title of dev.csv in folder images 
