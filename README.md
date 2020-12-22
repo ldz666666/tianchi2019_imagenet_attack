@@ -1,7 +1,7 @@
 # Tianchi2019_Imagenet_Attack
 
 No.9 Solution for [Tianchi2019 ImageNet Attack Challenge](https://tianchi.aliyun.com/competition/entrance/231761/introduction)  
-Generate adversarial images to attack ImageNet classification models
+Generate adversarial images to attack ImageNet classification models  
 Team: niceA  
 
 ## Environment  
