@@ -1,13 +1,13 @@
-# tianchi2019_imagenet_attack
+# Tianchi2019_Imagenet_Attack
 
 No.9 Solution for [Tianchi2019 ImageNet Attack Challenge](https://tianchi.aliyun.com/competition/entrance/231761/introduction)  
 Generate adversarial images to attack ImageNet classification models
 Team: niceA  
 
 ## Environment  
-Python 2.7.0 TensorFlow1.8.0 
+python 2.7.0 tensorFlow1.8.0 
 
-pretrained tensorflow models can be found [here](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models)
+Pretrained tensorflow models can be found [here](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models)
 
 ## Run
 > sh tianchi.sh [ your imagepath ] [ your output imagepath ] [ your epsilon ] 
