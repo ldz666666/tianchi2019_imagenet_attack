@@ -5,7 +5,7 @@ Generate adversarial images to attack ImageNet classification models
 Team: niceA  
 
 ## Environment  
-python 2.7.0 
+python 2.7.0   
 tensorFlow1.8.0 
 
 Pretrained tensorflow models can be found [here](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models)
